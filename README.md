@@ -1,5 +1,5 @@
 ### Hi there 👋
-### https://www.sololearn.com/profile/21082571 
+###  [![Twitter] https://www.sololearn.com/profile/21082571 
 ### https://replit.com/@DavidRodrigue53 
 ### https://stackoverflow.com/users/15654108/david-rodriguez
 
