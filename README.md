@@ -1,5 +1,7 @@
 ### Hi there 👋
-##Hola
+https://www.sololearn.com/profile/21082571
+https://replit.com/@DavidRodrigue53
+https://stackoverflow.com/users/15654108/david-rodriguez
 
 <!--
 **DavidRodriguez-27/DavidRodriguez-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
