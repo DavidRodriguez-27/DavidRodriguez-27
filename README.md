@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Apple](https://img.shields.io/badge/sololearn-davirodriguez-1DA1F2?style=for-the-badge&logo=white&labelColor=101010)](https://www.sololearn.com/profile/21082571)
+[![Apple](https://img.shields.io/badge/sololearn-davirodriguez-1DA1F2?style=for-the-badge&logo=white&labelColor=125212)](https://www.sololearn.com/profile/21082571)
 ### https://www.sololearn.com/profile/21082571 
 ### https://replit.com/@DavidRodrigue53 
 ### https://stackoverflow.com/users/15654108/david-rodriguez
