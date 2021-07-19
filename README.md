@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Apple](https://img.shields.io/badge/sololearn-1DA1F2?style=for-the-badge&logo=white&labelColor=5d8f5d)](https://www.sololearn.com/profile/21082571)</br></br>
+[![Apple](https://img.shields.io/badge/sololearn-1DA1F2?style=for-the-badge&logo=white&labelColor=6a796a)](https://www.sololearn.com/profile/21082571)</br></br>
 [![Apple](https://img.shields.io/badge/replit-1DA1F2?style=for-the-badge&logo=white&labelColor=125212)](https://www.replit.com/@DavidRodrigue53)  </br></br>
 [![Apple](https://img.shields.io/badge/Stackoverflow-1DA1F2?style=for-the-badge&logo=white&labelColor=125212)](https://stackoverflow.com/users/15654108/david-rodriguez)</br></br>
 
