@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Apple](https://img.shields.io/badge/sololearn-David-1DA1F2?style=for-the-badge&logo=white&labelColor=6a796a)](https://www.sololearn.com/profile/21082571)</br></br>
-[![Apple](https://img.shields.io/badge/replit-1DA1F2?style=for-the-badge&logo=white&labelColor=6a6a79)](https://www.replit.com/@DavidRodrigue53)  </br></br>
-[![Apple](https://img.shields.io/badge/Stackoverflow-1DA1F2?style=for-the-badge&logo=white&labelColor=796a6a)](https://stackoverflow.com/users/15654108/david-rodriguez)</br></br>
+[![Apple](https://img.shields.io/badge/sololearn-David Rodriguez-1DA1F2?style=for-the-badge&logo=white&labelColor=6a796a)](https://www.sololearn.com/profile/21082571)</br></br>
+[![Apple](https://img.shields.io/badge/replit-David Rodriguez-1DA1F2?style=for-the-badge&logo=white&labelColor=6a6a79)](https://www.replit.com/@DavidRodrigue53)  </br></br>
+[![Apple](https://img.shields.io/badge/Stackoverflow-David Rodriguez-1DA1F2?style=for-the-badge&logo=white&labelColor=796a6a)](https://stackoverflow.com/users/15654108/david-rodriguez)</br></br>
 
 <!--
 **DavidRodriguez-27/DavidRodriguez-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
