@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Apple](https://img.shields.io/badge/sololearn-davirodriguez-1DA1F2?style=for-the-badge&logo=white&labelColor=125212)](https://www.sololearn.com/profile/21082571)</br></br>
-[![Apple](https://img.shields.io/badge/replit-1DA1F2?style=for-the-badge&logo=white&labelColor=125212)](https://www.replit.com/@DavidRodrigue53)  </br></br>
+[![Apple](https://img.shields.io/badge/replit-@DavidRodrigue53-1DA1F2?style=for-the-badge&logo=white&labelColor=125212)](https://www.replit.com/@DavidRodrigue53)  </br></br>
 [![Apple](https://img.shields.io/badge/Stackoverflow-davirodriguez-1DA1F2?style=for-the-badge&logo=white&labelColor=125212)](https://stackoverflow.com/users/15654108/david-rodriguez)</br></br>
 
 <!--
