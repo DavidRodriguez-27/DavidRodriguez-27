@@ -5,6 +5,5 @@
 [![Apple](https://img.shields.io/badge/Stackoverflow-David_Rodiguez-1DA1F2?style=for-the-badge&logo=white&labelColor=452732)](https://stackoverflow.com/users/15654108/david-rodriguez)</br></br>
 [![Apple](https://img.shields.io/badge/Spotify-David_Rodiguez-1DA1F2?style=for-the-badge&logo=white&labelColor=452732)](https://open.spotify.com/user/2qaoh82a88rryvt75o6jiotw3?si=335790dd4f2b4a92)</br></br>
 
-https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sidDavidRodriguez-27&show_icons=true" alt="DavidRodriguez-27" /> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidRodriguez-27&show_icons=true&theme=tokyonight)
