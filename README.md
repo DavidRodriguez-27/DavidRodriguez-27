@@ -1,6 +1,9 @@
 # Hola 👋
 **Soy David Rodriguez. Programador, escritor, fotografo, melomano y cinefilo**
 
+* En la fotografia puedes ver mi aficion en [Instagram](https://www.instagram.com/davidrodri_gz/)
+* En la escritura puedes verlo en [Medium] (https://davidrodrig.medium.com/)
+
 ## Tambien me puedes encontrar aqui 💻:
 [![Android](https://img.shields.io/badge/sololearn-David_Rodiguez-1DA1F2?style=for-the-badge&logo=white&labelColor=5d698f)](https://www.sololearn.com/profile/21082571)</br></br>
 [![Apple](https://img.shields.io/badge/replit-David_Rodiguez-1DA1F2?style=for-the-badge&logo=white&labelColor=675587)](https://www.replit.com/@DavidRodrigue53)  </br></br>
