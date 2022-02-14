@@ -3,7 +3,7 @@
 
 * En la fotografia puedes ver mi aficion en [Instagram](https://www.instagram.com/davidrodri_gz/)
 * En la escritura puedes verlo en [Medium](https://davidrodrig.medium.com/)
-* Mi gusto por la musica lo tengo mis Playlist de [Spotify](https://open.spotify.com/user/2qaoh82a88rryvt75o6jiotw3?si=b5bc2676ca304377)
+* Mi gusto por la musica lo tengo en mis Playlist de [Spotify](https://open.spotify.com/user/2qaoh82a88rryvt75o6jiotw3?si=b5bc2676ca304377)
 
 ## Tambien estoy aqui 💻:
 [![Android](https://img.shields.io/badge/sololearn-David_Rodiguez-1DA1F2?style=for-the-badge&logo=white&labelColor=5d698f)](https://www.sololearn.com/profile/21082571)</br></br>
