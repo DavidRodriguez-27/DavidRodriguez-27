@@ -9,4 +9,5 @@
 [![Apple](https://img.shields.io/badge/Spotify-David_Rodiguez-1DA1F2?style=for-the-badge&logo=white&labelColor=452732)](https://open.spotify.com/user/2qaoh82a88rryvt75o6jiotw3?si=335790dd4f2b4a92)</br></br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidRodriguez-27&show_icons=true&theme=tokyonight)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DavidRodriguez-27&show_icons=true&theme=tokyonight" alt="DavidRodriguez-27" /> </p>
+
