@@ -21,7 +21,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRodriguez-27&theme=tokyonight" alt="DavidRodriguez-27" /> </p>
 
 
-¿Tienes un proyecto en mente?💡 ¿Quieres que trabajemos juntos?📝 O simplemente chatear y compartir ideas. ¡Me encantaría! 👍
+<h2>¿Tienes un proyecto en mente?💡 ¿Quieres que trabajemos juntos?📝 O simplemente chatear y compartir ideas. ¡Me encantaría! 👍 </h2>
 
 
 
