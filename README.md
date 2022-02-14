@@ -1,4 +1,4 @@
-### Hola 👋
+# Hola 👋
 **Soy David Rodriguez. Programador, escritor, melomano y cinefilo**
 
 
