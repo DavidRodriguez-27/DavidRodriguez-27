@@ -1,11 +1,12 @@
 # Hola 👋
 **Soy David Rodriguez. Programador, escritor, fotografo, melomano y cinefilo**
 
-## Skills:
+## Skills 👨‍💼:
 
 
 
-## Hobbies :
+
+## Hobbies 👾:
 
 * Tomar fotografia [Instagram](https://www.instagram.com/davidrodri_gz/)
 * Escribir historias [Medium](https://davidrodrig.medium.com/)
