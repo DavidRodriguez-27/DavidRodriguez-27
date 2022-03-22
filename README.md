@@ -2,9 +2,9 @@
 **Soy David Rodriguez. Programador, escritor, fotografo, melomano y cinefilo**
 
 ## Skills 👨‍💼:
-[Escucha activa]                 [Autodidacta]        [Java] 
-[Comunicacion asertiva]          [Docker]             [Bizagi]
-[Analisis de Problema]
+
+
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
 
 
