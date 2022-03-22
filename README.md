@@ -2,8 +2,9 @@
 **Soy David Rodriguez. Programador, escritor, fotografo, melomano y cinefilo**
 
 ## Skills 👨‍💼:
-[Escucha activa]                 + 
-+ Analisis de problemas
+[Escucha activa]                 [Autodidacta]        [Java] 
+[Comunicacion asertiva]          [Docker]             [Bizagi]
+[Analisis de Problema]
 
 
 
