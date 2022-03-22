@@ -8,7 +8,7 @@
 ## Hobbies :
 
 * Tomar fotografia [Instagram](https://www.instagram.com/davidrodri_gz/)
-* Escribir [Medium](https://davidrodrig.medium.com/)
+* Escribir historias [Medium](https://davidrodrig.medium.com/)
 * Escuchar musica [Spotify](https://open.spotify.com/user/2qaoh82a88rryvt75o6jiotw3?si=b5bc2676ca304377)
 
 
