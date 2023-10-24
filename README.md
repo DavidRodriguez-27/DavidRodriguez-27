@@ -18,7 +18,7 @@
 
 * Tomar fotografia [Instagram](https://www.instagram.com/davidrodri_gz/)
 * Escribir historias [Medium](https://davidrodrig.medium.com/)
-* Escuchar musica [Spotify](https://open.spotify.com/user/2qaoh82a88rryvt75o6jiotw3?si=b5bc2676ca304377)
+* Escuchar musica [Yotube Music]([https://open.spotify.com/user/2qaoh82a88rryvt75o6jiotw3?si=b5bc2676ca304377](https://music.youtube.com/channel/UCkUXajOmIpFz8_CmzPFBrjA))
 
 
 ## Tambien estoy aqui 💻:
