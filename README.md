@@ -14,6 +14,7 @@ Bases de Datos
 </br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![SQL Serve](https://img.shields.io/badge/SQL-Server-4479A1?style=for-the-badge&logo=SQL-Server&logoColor=white&labelColor=101010)]()
 </br>
 Integracion continua
 </br>
