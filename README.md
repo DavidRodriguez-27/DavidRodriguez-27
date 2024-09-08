@@ -9,16 +9,18 @@ Lenguajes proramacion
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/C-sharp-007396?style=for-the-badge&logo=C-sharp&logoColor=white&labelColor=101010)]()
+[![VBA](https://img.shields.io/badge/VBA-007396?style=for-the-badge&logo=VBA&logoColor=white&labelColor=101010)]()
 </br>
 Bases de Datos
 </br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![SQL Serve](https://img.shields.io/badge/SQL-Server-4479A1?style=for-the-badge&logo=SQL-Server&logoColor=white&labelColor=101010)]()
+[![SQL Serve](https://img.shields.io/badge/SQL-Server-4479A1?style=for-the-badge&logo=SQLServer&logoColor=white&labelColor=101010)]()
 </br>
 Integracion continua
 </br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
