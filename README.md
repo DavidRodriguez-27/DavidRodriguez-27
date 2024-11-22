@@ -4,23 +4,29 @@
 ## Skills 👨‍💼:
 
 
-Lenguajes proramacion
+Lenguajes programacion
 </br>
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C-sharp-007396?style=for-the-badge&logo=C-sharp&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-e74c3c?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%23-bb8fce?style=for-the-badge&logo=&logoColor=white&labelColor=bb8fce)]()
 [![VBA](https://img.shields.io/badge/VBA-007396?style=for-the-badge&logo=VBA&logoColor=white&labelColor=101010)]()
+
+FrameWork
 </br>
+![Spring Boot](https://img.shields.io/badge/springboot-239120?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)
+![.Net](https://img.shields.io/badge/.net-8e44ad?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)
+
 Bases de Datos
 </br>
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-2ecc71?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![SQL Serve](https://img.shields.io/badge/SQL-Server-4479A1?style=for-the-badge&logo=SQLServer&logoColor=white&labelColor=101010)]()
-</br>
+[![SQL Serve](https://img.shields.io/badge/SQL-Server-f4d03f?style=for-the-badge&logo=SQLServer&logoColor=white&labelColor=101010)]()
+
 Integracion continua
 </br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-5dade2?style=for-the-badge&logo=docker&logoColor=white&labelColor)
+![Jenkins](https://img.shields.io/badge/Jenkins-566573?style=for-the-badge&logo=jenkins&logoColor=white&labelColor)
 
 
 
