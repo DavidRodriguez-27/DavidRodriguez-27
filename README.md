@@ -20,7 +20,6 @@ Bases de Datos
 Integracion continua
 </br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
