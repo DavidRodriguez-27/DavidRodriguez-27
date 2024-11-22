@@ -29,7 +29,7 @@ Integracion continua
 ## Hobbies 👾:
 
 * Tomar fotografia [Instagram](https://www.instagram.com/davidrodri_gz/)
-* Escribir historias [Medium](https://davidrodrig.medium.com/)
+* Escribir historias [Medium]([https://davidrodrig.medium.com/](https://medium.com/@davidrodrig/list/programing-ad72d6d2d4b9))
 * Escuchar musica [Yotube Music](https://music.youtube.com/channel/UCkUXajOmIpFz8_CmzPFBrjA)
 
 
